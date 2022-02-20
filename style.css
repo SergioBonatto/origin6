@@ -22,12 +22,12 @@ img {
 :root {
   --header-height: 4.5rem;
   /*Colors*/
-  --hue: 159;
+  --hue: 210;
   /* hsl color mode*/
-  --base-color: hsl(var(--hue) 36% 57%);
+  --base-color: hsl(var(--hue) 100% 25%);
   --base-color-second: hsl(var(--hue) 65% 88%);
   --base-color-alt: hsl(var(--hue) 57% 53%);
-  --title-color: hsl(var(--hue) 41% 10%);
+  --title-color: hsl(var(--hue) 100% 7%);
   --text-color: hsl(0 0% 46%);
   --text-color-light: hsl(0 0% 98%);
   --body-color: hsl(0 0% 98%);
@@ -282,6 +282,8 @@ nav.show div.icon-close {
 
 #home .image {
   position: relative;
+  top: -16.8%;
+  left: 16.7%;
 }
 
 #home .image::before {
@@ -493,6 +495,7 @@ footer.section {
 footer .logo {
   display: inline-block;
   margin-bottom: 1.5rem;
+  color: var(--base-color-second);
 }
 
 footer .brand p {

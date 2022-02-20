@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?btpxb2');
-  src:  url('fonts/icomoon.eot?btpxb2#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?btpxb2') format('truetype'),
-    url('fonts/icomoon.woff?btpxb2') format('woff'),
-    url('fonts/icomoon.svg?btpxb2#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?4mebqq');
+  src:  url('fonts/icomoon.eot?4mebqq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?4mebqq') format('truetype'),
+    url('fonts/icomoon.woff?4mebqq') format('woff'),
+    url('fonts/icomoon.svg?4mebqq#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,42 +25,42 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-arrow-up:before {
+.icon-coin_coins_financial_money_icon:before {
   content: "\e900";
 }
-.icon-phone:before {
+.icon-close:before {
   content: "\e901";
 }
-.icon-close:before {
+.icon-facebook:before {
   content: "\e902";
 }
-.icon-cosmetic:before {
+.icon-instagram:before {
   content: "\e903";
 }
-.icon-facebook:before {
+.icon-mail:before {
   content: "\e904";
 }
-.icon-instagram:before {
+.icon-map-pin:before {
   content: "\e905";
 }
-.icon-mail:before {
+.icon-menu:before {
   content: "\e906";
 }
-.icon-map-pin:before {
+.icon-whatsapp:before {
   content: "\e907";
 }
-.icon-menu:before {
+.icon-youtube:before {
   content: "\e908";
 }
-.icon-trim:before {
+.icon-chart_graph_house_invesment_property_icon:before {
   content: "\e909";
 }
-.icon-whatsapp:before {
+.icon-business_marketing_service_solution_icon:before {
   content: "\e90a";
 }
-.icon-woman-hair:before {
-  content: "\e90b";
-}
-.icon-youtube:before {
+.icon-arrow-up:before {
   content: "\e90c";
+}
+.icon-phone:before {
+  content: "\e90b";
 }
